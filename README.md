@@ -12,6 +12,7 @@ My leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0212-word-search-ii](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,20 @@ My leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
