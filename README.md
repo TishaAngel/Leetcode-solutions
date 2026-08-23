@@ -12,6 +12,7 @@ My leetcode Solutions
 | [0183-customers-who-never-order](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/TishaAngel/Leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 ## Array
 | Problem Name | Difficulty |
